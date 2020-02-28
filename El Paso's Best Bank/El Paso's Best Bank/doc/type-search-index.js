@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Accounts","l":"Account"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"Accounts","l":"Checking"},{"p":"Accounts","l":"Credit"},{"p":"Persons","l":"Customer"},{"p":"RunBank","l":"CustomerCreator"},{"p":"Log","l":"Logs"},{"p":"Persons","l":"Person"},{"p":"RunBank","l":"RunBank"},{"p":"Accounts","l":"Savings"}]
